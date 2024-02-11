@@ -1,4 +1,4 @@
-22693074283962920
+22699904840165659
 00_Alpha_Electronics
 MB_Series
 
@@ -6,6 +6,34 @@ MB_Series
 0
 2
 2
+00_OMRON
+XW4A-02C1-xx
+
+
+0
+2
+2
+00_OMRON
+XW4A-03C1-xx
+
+
+0
+3
+3
+00_OMRON
+XW4A-04C1-xx
+
+
+0
+4
+4
+00_OMRON
+XW4A-05C1-xx
+
+
+0
+5
+5
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
