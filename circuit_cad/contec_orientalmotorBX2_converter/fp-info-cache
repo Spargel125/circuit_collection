@@ -1,4 +1,4 @@
-22718690460492825
+22725516790783921
 00_Alpha_Electronics
 MB_Series
 
@@ -46,8 +46,8 @@ conn_8971240_4V
 
 
 0
-3
-3
+4
+4
 00_RSPro
 conn_8971247_3V
 
@@ -2603,6 +2603,27 @@ speaker CUI
 0
 2
 2
+CC1R5
+CC1R5
+
+
+0
+9
+9
+CC1R5
+CC1R5_SMD
+
+
+0
+7
+7
+CC3
+CC3_SMD
+
+
+0
+7
+7
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -65456,6 +65477,13 @@ Mounting 4.5mm 9774100982
 0
 8
 1
+MyFootLib
+MBY500R00T
+
+
+0
+2
+2
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
