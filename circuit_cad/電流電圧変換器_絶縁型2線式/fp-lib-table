@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "00_TOCOS")(type "KiCad")(uri "C:/Users/spargel/Dropbox/projects/circuit_collection/parts_library/00_TOCOS.pretty")(options "")(descr ""))
+)

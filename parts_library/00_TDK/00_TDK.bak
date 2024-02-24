@@ -59,7 +59,7 @@
       )
     )
     (symbol "CC3-2412Dx-E_1_1"
-      (rectangle (start -10.16 7.62) (end 11.43 -7.62)
+      (rectangle (start -10.16 7.62) (end 8.89 -7.62)
         (stroke (width 0) (type default))
         (fill (type none))
       )

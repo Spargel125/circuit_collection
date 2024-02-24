@@ -1,4 +1,4 @@
-22727225573557919
+22728934358657562
 00_Alpha_Electronics
 MB_Series
 
@@ -118,6 +118,13 @@ CC3-2412DF-E
 0
 9
 9
+00_TOCOS
+GF063P
+
+
+0
+0
+0
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
