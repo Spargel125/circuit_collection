@@ -1,4 +1,4 @@
-22728934358657562
+22722108028817946
 00_Alpha_Electronics
 MB_Series
 
@@ -123,8 +123,8 @@ GF063P
 
 
 0
-0
-0
+3
+3
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2617,27 +2617,6 @@ speaker CUI
 0
 2
 2
-CC1R5
-CC1R5
-
-
-0
-9
-9
-CC1R5
-CC1R5_SMD
-
-
-0
-7
-7
-CC3
-CC3_SMD
-
-
-0
-7
-7
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -65491,13 +65470,6 @@ Mounting 4.5mm 9774100982
 0
 8
 1
-MyFootLib
-MBY500R00T
-
-
-0
-2
-2
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
